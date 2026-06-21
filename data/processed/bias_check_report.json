@@ -1,0 +1,109 @@
+{
+  "passed": false,
+  "total_news_rows": 3750,
+  "total_alert_rows": 669,
+  "violations": {
+    "anchor_before_publish": [
+      {
+        "ticker": "000063.SZ",
+        "publish_timestamp": "2026-04-29 09:22:00",
+        "trading_date_anchor": "2026-04-28"
+      },
+      {
+        "ticker": "000538.SZ",
+        "publish_timestamp": "2026-04-29 09:21:00",
+        "trading_date_anchor": "2026-04-28"
+      },
+      {
+        "ticker": "000538.SZ",
+        "publish_timestamp": "2026-04-29 09:22:00",
+        "trading_date_anchor": "2026-04-28"
+      },
+      {
+        "ticker": "000568.SZ",
+        "publish_timestamp": "2026-04-29 00:03:15",
+        "trading_date_anchor": "2026-04-28"
+      },
+      {
+        "ticker": "000568.SZ",
+        "publish_timestamp": "2026-04-29 07:47:00",
+        "trading_date_anchor": "2026-04-28"
+      },
+      {
+        "ticker": "000568.SZ",
+        "publish_timestamp": "2026-04-29 07:53:00",
+        "trading_date_anchor": "2026-04-28"
+      },
+      {
+        "ticker": "000568.SZ",
+        "publish_timestamp": "2026-04-29 08:39:00",
+        "trading_date_anchor": "2026-04-28"
+      },
+      {
+        "ticker": "000568.SZ",
+        "publish_timestamp": "2026-04-29 09:03:13",
+        "trading_date_anchor": "2026-04-28"
+      },
+      {
+        "ticker": "000568.SZ",
+        "publish_timestamp": "2026-04-29 09:12:21",
+        "trading_date_anchor": "2026-04-28"
+      },
+      {
+        "ticker": "000596.SZ",
+        "publish_timestamp": "2026-04-29 05:14:44",
+        "trading_date_anchor": "2026-04-28"
+      },
+      {
+        "ticker": "000596.SZ",
+        "publish_timestamp": "2026-04-29 09:30:09",
+        "trading_date_anchor": "2026-04-28"
+      },
+      {
+        "ticker": "000768.SZ",
+        "publish_timestamp": "2026-04-29 09:23:02",
+        "trading_date_anchor": "2026-04-28"
+      },
+      {
+        "ticker": "000807.SZ",
+        "publish_timestamp": "2026-04-29 09:21:00",
+        "trading_date_anchor": "2026-04-28"
+      },
+      {
+        "ticker": "000858.SZ",
+        "publish_timestamp": "2026-04-29 07:53:00",
+        "trading_date_anchor": "2026-04-28"
+      },
+      {
+        "ticker": "000858.SZ",
+        "publish_timestamp": "2026-04-29 08:04:39",
+        "trading_date_anchor": "2026-04-28"
+      },
+      {
+        "ticker": "001979.SZ",
+        "publish_timestamp": "2026-04-29 09:21:00",
+        "trading_date_anchor": "2026-04-28"
+      },
+      {
+        "ticker": "002027.SZ",
+        "publish_timestamp": "2026-04-29 09:21:00",
+        "trading_date_anchor": "2026-04-28"
+      },
+      {
+        "ticker": "002027.SZ",
+        "publish_timestamp": "2026-04-29 09:27:09",
+        "trading_date_anchor": "2026-04-28"
+      },
+      {
+        "ticker": "002230.SZ",
+        "publish_timestamp": "2026-04-29 09:27:38",
+        "trading_date_anchor": "2026-04-28"
+      },
+      {
+        "ticker": "002230.SZ",
+        "publish_timestamp": "2026-04-29 09:57:06",
+        "trading_date_anchor": "2026-04-28"
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "negative_ratio": 0.6,
+  "news_count_multiplier": 2.0,
+  "sentiment_drop": 0.25,
+  "negative_abs_sentiment": -0.45,
+  "negative_abs_ratio": 0.75,
+  "divergence_sentiment_abs": 0.2,
+  "divergence_intraday_return": 0.002
+}

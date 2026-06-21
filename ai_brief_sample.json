@@ -1,0 +1,77 @@
+{
+  "input_context": {
+    "ticker": "600900.SH",
+    "stock_code": "600900",
+    "stock_name": "长江电力",
+    "quote": 27.96,
+    "active_source_count": 3,
+    "official_count": 4,
+    "news_count": 20,
+    "guba_count": 100,
+    "latest_capture_time": "2026-06-02 16:12:54",
+    "mean_sentiment": 0.5472,
+    "positive_ratio": 0.1855,
+    "negative_ratio": 0.0161,
+    "neutral_ratio": 0.7984,
+    "total_opinions": 124,
+    "risk_score": 5.0,
+    "risk_label": "低风险",
+    "rumor_count": 0,
+    "triggered_rules": [
+      "volume_surge"
+    ],
+    "risk_factors": [
+      "舆情量异常激增 (当日 77 vs 前5日均值 8.6)"
+    ],
+    "top_topics": [
+      {
+        "keyword": "电力",
+        "score": 0.7802,
+        "frequency": 103
+      },
+      {
+        "keyword": "长江",
+        "score": 0.6996,
+        "frequency": 93
+      },
+      {
+        "keyword": "股东会",
+        "score": 0.1568,
+        "frequency": 16
+      },
+      {
+        "keyword": "分红",
+        "score": 0.1348,
+        "frequency": 18
+      },
+      {
+        "keyword": "股份",
+        "score": 0.1293,
+        "frequency": 16
+      },
+      {
+        "keyword": "中国",
+        "score": 0.106,
+        "frequency": 14
+      },
+      {
+        "keyword": "有限公司",
+        "score": 0.105,
+        "frequency": 12
+      },
+      {
+        "keyword": "年度",
+        "score": 0.071,
+        "frequency": 8
+      }
+    ]
+  },
+  "brief": {
+    "headline": "长江电力舆情风险研判简报",
+    "summary": "样本覆盖官方公告 4 条、新闻 20 条、股吧讨论 100 条，共 124 条算法样本。核心讨论主题集中在 电力、长江、股东会、分红、股份。",
+    "sentiment_view": "平均情绪得分为 0.5472，整体处于中性震荡区间；正面占比 18.6%，负面占比 1.6%。",
+    "risk_view": "综合风险评分为 5.0，等级为低风险；触发规则包括 volume_surge，主要风险因素为舆情量异常激增 (当日 77 vs 前5日均值 8.6)。当前未发现明显谣言样本集中扩散。",
+    "action_view": "后续建议重点跟踪舆情量是否继续放大、风险规则是否连续触发，以及公告/新闻侧是否出现新的实质性事件。不构成投资建议，仅用于课程项目中的风险辅助研判展示。"
+  },
+  "generation_mode": "local_template"
+}

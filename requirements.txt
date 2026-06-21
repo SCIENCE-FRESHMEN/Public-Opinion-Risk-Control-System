@@ -1,0 +1,15 @@
+pandas
+numpy
+duckdb
+pyarrow
+akshare
+yfinance
+scikit-learn
+transformers
+torch
+streamlit
+plotly
+matplotlib
+wordcloud
+pyyaml
+pytest

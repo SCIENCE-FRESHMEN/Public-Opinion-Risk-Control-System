@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Manrope:wght@400;600;700;800&family=Space+Grotesk:wght@400;500;700&family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,400,0,0&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+  min-width: 0;
+  font-family: Inter, sans-serif;
+  background:
+    radial-gradient(circle at top left, rgba(79, 70, 229, 0.06), transparent 24%),
+    linear-gradient(180deg, #111522 0%, #10131a 26%, #171b23 100%);
+  color: var(--color-on-surface);
+  overflow-x: hidden;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.font-headline {
+  font-family: Manrope, sans-serif;
+}
+
+.font-body {
+  font-family: Inter, sans-serif;
+}
+
+.font-label {
+  font-family: "Space Grotesk", sans-serif;
+}
+
+.material-symbols-outlined {
+  font-family: "Material Symbols Outlined", sans-serif;
+  font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+  line-height: 1;
+}
+
+.ambient-shadow {
+  box-shadow: var(--ambient-shadow);
+}
+
+.ambient-shadow-strong {
+  box-shadow: var(--ambient-shadow-strong);
+}
+
+.ghost-border {
+  border: 1px solid var(--ghost-border);
+}
+
+.intel-grid {
+  position: relative;
+}
+
+.intel-grid::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(to right, transparent 0, transparent calc(100% - 1px), var(--panel-grid) calc(100% - 1px)),
+    linear-gradient(to bottom, transparent 0, transparent calc(100% - 1px), var(--panel-grid) calc(100% - 1px));
+  background-size: 48px 48px;
+  opacity: 0.42;
+  pointer-events: none;
+  mask-image: linear-gradient(180deg, rgba(0, 0, 0, 0.78), rgba(0, 0, 0, 0.26));
+}
+
+.intel-frame {
+  position: relative;
+  overflow: hidden;
+}
+
+.intel-frame::before {
+  content: "";
+  position: absolute;
+  inset: 1px;
+  border-radius: inherit;
+  border: 1px solid rgba(255, 255, 255, 0.04);
+  pointer-events: none;
+}
+
+.intel-frame::after {
+  content: "";
+  position: absolute;
+  inset: -32% auto auto -12%;
+  width: 180px;
+  height: 180px;
+  background: radial-gradient(circle, var(--panel-glow), transparent 72%);
+  pointer-events: none;
+  opacity: 0.7;
+}
+
+.intel-kicker {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: var(--color-tertiary);
+}
+
+.intel-kicker::before {
+  content: "";
+  width: 18px;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--color-tertiary));
+}
+
+.signal-bar {
+  position: relative;
+  overflow: hidden;
+}
+
+.signal-bar::after {
+  content: "";
+  position: absolute;
+  inset: auto 0 0 0;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, currentColor 18%, transparent 36%, currentColor 62%, transparent);
+  opacity: 0.42;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-surface-highest);
+  border-radius: 999px;
+}
+
+::selection {
+  background: rgba(173, 199, 255, 0.22);
+  color: white;
+}

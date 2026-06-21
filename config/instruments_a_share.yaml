@@ -1,0 +1,1116 @@
+- symbol: 600519.SH
+  code: '600519'
+  name: 贵州茅台
+  full_name: 贵州茅台酒股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 消费
+  industry: 白酒
+  aliases:
+  - 茅台
+  - 贵州茅台
+  - 飞天茅台
+  is_featured: true
+  sort_order: 101
+  is_active: true
+- symbol: 000858.SZ
+  code: 000858
+  name: 五粮液
+  full_name: 宜宾五粮液股份有限公司
+  market: SZSE
+  board: main_board
+  sector_group: 消费
+  industry: 白酒
+  aliases:
+  - 五粮液
+  - 普五
+  is_featured: true
+  sort_order: 102
+  is_active: true
+- symbol: 600887.SH
+  code: '600887'
+  name: 伊利股份
+  full_name: 内蒙古伊利实业集团股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 消费
+  industry: 乳制品
+  aliases:
+  - 伊利
+  - 伊利股份
+  is_featured: false
+  sort_order: 103
+  is_active: true
+- symbol: 000568.SZ
+  code: 000568
+  name: 泸州老窖
+  full_name: 泸州老窖股份有限公司
+  market: SZSE
+  board: main_board
+  sector_group: 消费
+  industry: 白酒
+  aliases:
+  - 老窖
+  - 泸州老窖
+  is_featured: false
+  sort_order: 104
+  is_active: true
+- symbol: 002714.SZ
+  code: '002714'
+  name: 牧原股份
+  full_name: 牧原食品股份有限公司
+  market: SZSE
+  board: main_board
+  sector_group: 消费
+  industry: 生猪养殖
+  aliases:
+  - 牧原
+  - 牧原股份
+  is_featured: false
+  sort_order: 105
+  is_active: true
+- symbol: 300498.SZ
+  code: '300498'
+  name: 温氏股份
+  full_name: 温氏食品集团股份有限公司
+  market: SZSE
+  board: chinext
+  sector_group: 消费
+  industry: 畜禽养殖
+  aliases:
+  - 温氏
+  - 温氏股份
+  is_featured: false
+  sort_order: 106
+  is_active: true
+- symbol: 002304.SZ
+  code: '002304'
+  name: 洋河股份
+  full_name: 江苏洋河酒厂股份有限公司
+  market: SZSE
+  board: main_board
+  sector_group: 消费
+  industry: 白酒
+  aliases:
+  - 洋河
+  - 洋河股份
+  is_featured: false
+  sort_order: 107
+  is_active: true
+- symbol: 600809.SH
+  code: '600809'
+  name: 山西汾酒
+  full_name: 山西杏花村汾酒厂股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 消费
+  industry: 白酒
+  aliases:
+  - 汾酒
+  - 山西汾酒
+  is_featured: false
+  sort_order: 108
+  is_active: true
+- symbol: 000596.SZ
+  code: 000596
+  name: 古井贡酒
+  full_name: 安徽古井贡酒股份有限公司
+  market: SZSE
+  board: main_board
+  sector_group: 消费
+  industry: 白酒
+  aliases:
+  - 古井贡酒
+  - 古井
+  is_featured: false
+  sort_order: 109
+  is_active: true
+- symbol: 600276.SH
+  code: '600276'
+  name: 恒瑞医药
+  full_name: 江苏恒瑞医药股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 医药
+  industry: 化学制药
+  aliases:
+  - 恒瑞
+  - 恒瑞医药
+  is_featured: true
+  sort_order: 201
+  is_active: true
+- symbol: 300760.SZ
+  code: '300760'
+  name: 迈瑞医疗
+  full_name: 深圳迈瑞生物医疗电子股份有限公司
+  market: SZSE
+  board: chinext
+  sector_group: 医药
+  industry: 医疗器械
+  aliases:
+  - 迈瑞
+  - 迈瑞医疗
+  is_featured: true
+  sort_order: 202
+  is_active: true
+- symbol: 600436.SH
+  code: '600436'
+  name: 片仔癀
+  full_name: 漳州片仔癀药业股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 医药
+  industry: 中药
+  aliases:
+  - 片仔癀
+  is_featured: false
+  sort_order: 203
+  is_active: true
+- symbol: 000538.SZ
+  code: 000538
+  name: 云南白药
+  full_name: 云南白药集团股份有限公司
+  market: SZSE
+  board: main_board
+  sector_group: 医药
+  industry: 中药
+  aliases:
+  - 云南白药
+  - 白药
+  is_featured: false
+  sort_order: 204
+  is_active: true
+- symbol: 603259.SH
+  code: '603259'
+  name: 药明康德
+  full_name: 无锡药明康德新药开发股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 医药
+  industry: CRO
+  aliases:
+  - 药明康德
+  - 药明
+  is_featured: false
+  sort_order: 205
+  is_active: true
+- symbol: 300122.SZ
+  code: '300122'
+  name: 智飞生物
+  full_name: 重庆智飞生物制品股份有限公司
+  market: SZSE
+  board: chinext
+  sector_group: 医药
+  industry: 生物制品
+  aliases:
+  - 智飞
+  - 智飞生物
+  is_featured: false
+  sort_order: 206
+  is_active: true
+- symbol: 300750.SZ
+  code: '300750'
+  name: 宁德时代
+  full_name: 宁德时代新能源科技股份有限公司
+  market: SZSE
+  board: chinext
+  sector_group: 新能源
+  industry: 动力电池
+  aliases:
+  - 宁王
+  - 宁德时代
+  is_featured: true
+  sort_order: 301
+  is_active: true
+- symbol: 002594.SZ
+  code: 002594
+  name: 比亚迪
+  full_name: 比亚迪股份有限公司
+  market: SZSE
+  board: main_board
+  sector_group: 新能源
+  industry: 新能源汽车
+  aliases:
+  - 比亚迪
+  - BYD
+  is_featured: true
+  sort_order: 302
+  is_active: true
+- symbol: 601012.SH
+  code: '601012'
+  name: 隆基绿能
+  full_name: 隆基绿能科技股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 新能源
+  industry: 光伏组件
+  aliases:
+  - 隆基
+  - 隆基绿能
+  is_featured: false
+  sort_order: 303
+  is_active: true
+- symbol: 300274.SZ
+  code: '300274'
+  name: 阳光电源
+  full_name: 阳光电源股份有限公司
+  market: SZSE
+  board: chinext
+  sector_group: 新能源
+  industry: 光伏逆变器
+  aliases:
+  - 阳光电源
+  - 阳光
+  is_featured: false
+  sort_order: 304
+  is_active: true
+- symbol: 688223.SH
+  code: '688223'
+  name: 晶科能源
+  full_name: 晶科能源股份有限公司
+  market: SSE
+  board: star_market
+  sector_group: 新能源
+  industry: 光伏电池组件
+  aliases:
+  - 晶科
+  - 晶科能源
+  is_featured: false
+  sort_order: 305
+  is_active: true
+- symbol: 600438.SH
+  code: '600438'
+  name: 通威股份
+  full_name: 通威股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 新能源
+  industry: 硅料电池
+  aliases:
+  - 通威
+  - 通威股份
+  is_featured: false
+  sort_order: 306
+  is_active: true
+- symbol: 603501.SH
+  code: '603501'
+  name: 韦尔股份
+  full_name: 上海韦尔半导体股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 半导体
+  industry: 芯片设计
+  aliases:
+  - 韦尔
+  - 韦尔股份
+  is_featured: true
+  sort_order: 401
+  is_active: true
+- symbol: 002371.SZ
+  code: '002371'
+  name: 北方华创
+  full_name: 北方华创科技集团股份有限公司
+  market: SZSE
+  board: main_board
+  sector_group: 半导体
+  industry: 半导体设备
+  aliases:
+  - 北方华创
+  - 北华
+  is_featured: true
+  sort_order: 402
+  is_active: true
+- symbol: 300223.SZ
+  code: '300223'
+  name: 北京君正
+  full_name: 北京君正集成电路股份有限公司
+  market: SZSE
+  board: chinext
+  sector_group: 半导体
+  industry: 芯片设计
+  aliases:
+  - 北京君正
+  - 君正
+  is_featured: false
+  sort_order: 403
+  is_active: true
+- symbol: 688008.SH
+  code: '688008'
+  name: 澜起科技
+  full_name: 澜起科技股份有限公司
+  market: SSE
+  board: star_market
+  sector_group: 半导体
+  industry: 芯片设计
+  aliases:
+  - 澜起
+  - 澜起科技
+  is_featured: false
+  sort_order: 404
+  is_active: true
+- symbol: 688981.SH
+  code: '688981'
+  name: 中芯国际
+  full_name: 中芯国际集成电路制造有限公司
+  market: SSE
+  board: star_market
+  sector_group: 半导体
+  industry: 晶圆制造
+  aliases:
+  - 中芯国际
+  - 中芯
+  is_featured: false
+  sort_order: 405
+  is_active: true
+- symbol: 600584.SH
+  code: '600584'
+  name: 长电科技
+  full_name: 江苏长电科技股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 半导体
+  industry: 封装测试
+  aliases:
+  - 长电科技
+  - 长电
+  is_featured: false
+  sort_order: 406
+  is_active: true
+- symbol: 688111.SH
+  code: '688111'
+  name: 金山办公
+  full_name: 北京金山办公软件股份有限公司
+  market: SSE
+  board: star_market
+  sector_group: 人工智能 / 计算机
+  industry: 办公软件
+  aliases:
+  - 金山办公
+  - WPS
+  is_featured: true
+  sort_order: 501
+  is_active: true
+- symbol: 002230.SZ
+  code: '002230'
+  name: 科大讯飞
+  full_name: 科大讯飞股份有限公司
+  market: SZSE
+  board: main_board
+  sector_group: 人工智能 / 计算机
+  industry: 人工智能
+  aliases:
+  - 讯飞
+  - 科大讯飞
+  is_featured: true
+  sort_order: 502
+  is_active: true
+- symbol: 600570.SH
+  code: '600570'
+  name: 恒生电子
+  full_name: 恒生电子股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 人工智能 / 计算机
+  industry: 金融 IT
+  aliases:
+  - 恒生电子
+  - 恒生
+  is_featured: false
+  sort_order: 503
+  is_active: true
+- symbol: 300033.SZ
+  code: '300033'
+  name: 同花顺
+  full_name: 浙江核新同花顺网络信息股份有限公司
+  market: SZSE
+  board: chinext
+  sector_group: 人工智能 / 计算机
+  industry: 互联网金融信息服务
+  aliases:
+  - 同花顺
+  is_featured: false
+  sort_order: 504
+  is_active: true
+- symbol: 600588.SH
+  code: '600588'
+  name: 用友网络
+  full_name: 用友网络科技股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 人工智能 / 计算机
+  industry: 企业软件
+  aliases:
+  - 用友
+  - 用友网络
+  is_featured: false
+  sort_order: 505
+  is_active: true
+- symbol: 300454.SZ
+  code: '300454'
+  name: 深信服
+  full_name: 深信服科技股份有限公司
+  market: SZSE
+  board: chinext
+  sector_group: 人工智能 / 计算机
+  industry: 网络安全
+  aliases:
+  - 深信服
+  is_featured: false
+  sort_order: 506
+  is_active: true
+- symbol: 002027.SZ
+  code: '002027'
+  name: 分众传媒
+  full_name: 分众传媒信息技术股份有限公司
+  market: SZSE
+  board: main_board
+  sector_group: 人工智能 / 计算机
+  industry: 广告营销
+  aliases:
+  - 分众
+  - 分众传媒
+  is_featured: false
+  sort_order: 507
+  is_active: true
+- symbol: 002415.SZ
+  code: '002415'
+  name: 海康威视
+  full_name: 杭州海康威视数字技术股份有限公司
+  market: SZSE
+  board: main_board
+  sector_group: 通信 / 电子制造
+  industry: 安防设备
+  aliases:
+  - 海康
+  - 海康威视
+  is_featured: false
+  sort_order: 607
+  is_active: true
+- symbol: 002475.SZ
+  code: '002475'
+  name: 立讯精密
+  full_name: 立讯精密工业股份有限公司
+  market: SZSE
+  board: main_board
+  sector_group: 通信 / 电子制造
+  industry: 消费电子制造
+  aliases:
+  - 立讯
+  - 立讯精密
+  is_featured: true
+  sort_order: 601
+  is_active: true
+- symbol: 000063.SZ
+  code: '000063'
+  name: 中兴通讯
+  full_name: 中兴通讯股份有限公司
+  market: SZSE
+  board: main_board
+  sector_group: 通信 / 电子制造
+  industry: 通信设备
+  aliases:
+  - 中兴
+  - 中兴通讯
+  is_featured: true
+  sort_order: 602
+  is_active: true
+- symbol: 300308.SZ
+  code: '300308'
+  name: 中际旭创
+  full_name: 中际旭创股份有限公司
+  market: SZSE
+  board: chinext
+  sector_group: 通信 / 电子制造
+  industry: 光模块
+  aliases:
+  - 中际旭创
+  is_featured: false
+  sort_order: 603
+  is_active: true
+- symbol: 300782.SZ
+  code: '300782'
+  name: 卓胜微
+  full_name: 江苏卓胜微电子股份有限公司
+  market: SZSE
+  board: chinext
+  sector_group: 通信 / 电子制造
+  industry: 射频芯片
+  aliases:
+  - 卓胜微
+  is_featured: false
+  sort_order: 604
+  is_active: true
+- symbol: 002241.SZ
+  code: '002241'
+  name: 歌尔股份
+  full_name: 歌尔股份有限公司
+  market: SZSE
+  board: main_board
+  sector_group: 通信 / 电子制造
+  industry: 声学与可穿戴制造
+  aliases:
+  - 歌尔
+  - 歌尔股份
+  is_featured: false
+  sort_order: 605
+  is_active: true
+- symbol: 002938.SZ
+  code: 002938
+  name: 鹏鼎控股
+  full_name: 鹏鼎控股(深圳)股份有限公司
+  market: SZSE
+  board: main_board
+  sector_group: 通信 / 电子制造
+  industry: PCB
+  aliases:
+  - 鹏鼎控股
+  - 鹏鼎
+  is_featured: false
+  sort_order: 606
+  is_active: true
+- symbol: 002050.SZ
+  code: '002050'
+  name: 三花智控
+  full_name: 浙江三花智能控制股份有限公司
+  market: SZSE
+  board: main_board
+  sector_group: 通信 / 电子制造
+  industry: 热管理零部件
+  aliases:
+  - 三花
+  - 三花智控
+  is_featured: false
+  sort_order: 608
+  is_active: true
+- symbol: 600050.SH
+  code: '600050'
+  name: 中国联通
+  full_name: 中国联合网络通信股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 通信 / 电子制造
+  industry: 通信运营
+  aliases:
+  - 联通
+  - 中国联通
+  is_featured: false
+  sort_order: 609
+  is_active: true
+- symbol: 600036.SH
+  code: '600036'
+  name: 招商银行
+  full_name: 招商银行股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 金融
+  industry: 银行
+  aliases:
+  - 招行
+  - 招商银行
+  is_featured: true
+  sort_order: 701
+  is_active: true
+- symbol: 601318.SH
+  code: '601318'
+  name: 中国平安
+  full_name: 中国平安保险(集团)股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 金融
+  industry: 保险
+  aliases:
+  - 平安
+  - 中国平安
+  is_featured: true
+  sort_order: 702
+  is_active: true
+- symbol: 600030.SH
+  code: '600030'
+  name: 中信证券
+  full_name: 中信证券股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 金融
+  industry: 证券
+  aliases:
+  - 中信证券
+  - 中信
+  is_featured: false
+  sort_order: 703
+  is_active: true
+- symbol: 601688.SH
+  code: '601688'
+  name: 华泰证券
+  full_name: 华泰证券股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 金融
+  industry: 证券
+  aliases:
+  - 华泰证券
+  - 华泰
+  is_featured: false
+  sort_order: 704
+  is_active: true
+- symbol: 601166.SH
+  code: '601166'
+  name: 兴业银行
+  full_name: 兴业银行股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 金融
+  industry: 银行
+  aliases:
+  - 兴业银行
+  - 兴业
+  is_featured: false
+  sort_order: 705
+  is_active: true
+- symbol: 601398.SH
+  code: '601398'
+  name: 工商银行
+  full_name: 中国工商银行股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 金融
+  industry: 银行
+  aliases:
+  - 工行
+  - 工商银行
+  is_featured: false
+  sort_order: 706
+  is_active: true
+- symbol: 600999.SH
+  code: '600999'
+  name: 招商证券
+  full_name: 招商证券股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 金融
+  industry: 证券
+  aliases:
+  - 招商证券
+  - 招证
+  is_featured: false
+  sort_order: 707
+  is_active: true
+- symbol: 601601.SH
+  code: '601601'
+  name: 中国太保
+  full_name: 中国太平洋保险(集团)股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 金融
+  industry: 保险
+  aliases:
+  - 太保
+  - 中国太保
+  is_featured: false
+  sort_order: 708
+  is_active: true
+- symbol: 601211.SH
+  code: '601211'
+  name: 国泰海通
+  full_name: 国泰海通证券股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 金融
+  industry: 证券
+  aliases:
+  - 国泰海通
+  - 国海通
+  is_featured: false
+  sort_order: 709
+  is_active: true
+- symbol: 601899.SH
+  code: '601899'
+  name: 紫金矿业
+  full_name: 紫金矿业集团股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 周期 / 资源
+  industry: 有色金属
+  aliases:
+  - 紫金矿业
+  - 紫金
+  is_featured: true
+  sort_order: 801
+  is_active: true
+- symbol: 601088.SH
+  code: '601088'
+  name: 中国神华
+  full_name: 中国神华能源股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 周期 / 资源
+  industry: 煤炭
+  aliases:
+  - 神华
+  - 中国神华
+  is_featured: true
+  sort_order: 802
+  is_active: true
+- symbol: 600028.SH
+  code: '600028'
+  name: 中国石化
+  full_name: 中国石油化工股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 周期 / 资源
+  industry: 石油化工
+  aliases:
+  - 中石化
+  - 中国石化
+  is_featured: false
+  sort_order: 803
+  is_active: true
+- symbol: 600938.SH
+  code: '600938'
+  name: 中国海油
+  full_name: 中国海洋石油有限公司
+  market: SSE
+  board: main_board
+  sector_group: 周期 / 资源
+  industry: 石油开采
+  aliases:
+  - 中国海油
+  - 海油
+  is_featured: false
+  sort_order: 804
+  is_active: true
+- symbol: 600111.SH
+  code: '600111'
+  name: 北方稀土
+  full_name: 中国北方稀土(集团)高科技股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 周期 / 资源
+  industry: 稀土
+  aliases:
+  - 北方稀土
+  - 稀土
+  is_featured: false
+  sort_order: 805
+  is_active: true
+- symbol: 000807.SZ
+  code: 000807
+  name: 云铝股份
+  full_name: 云南铝业股份有限公司
+  market: SZSE
+  board: main_board
+  sector_group: 周期 / 资源
+  industry: 铝
+  aliases:
+  - 云铝
+  - 云铝股份
+  is_featured: false
+  sort_order: 806
+  is_active: true
+- symbol: 600309.SH
+  code: '600309'
+  name: 万华化学
+  full_name: 万华化学集团股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 周期 / 资源
+  industry: 化工
+  aliases:
+  - 万华
+  - 万华化学
+  is_featured: false
+  sort_order: 807
+  is_active: true
+- symbol: 601225.SH
+  code: '601225'
+  name: 陕西煤业
+  full_name: 陕西煤业股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 周期 / 资源
+  industry: 煤炭
+  aliases:
+  - 陕西煤业
+  - 陕煤
+  is_featured: false
+  sort_order: 808
+  is_active: true
+- symbol: 601668.SH
+  code: '601668'
+  name: 中国建筑
+  full_name: 中国建筑股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 基建 / 地产 / 央国企
+  industry: 建筑施工
+  aliases:
+  - 中建
+  - 中国建筑
+  is_featured: true
+  sort_order: 901
+  is_active: true
+- symbol: 600900.SH
+  code: '600900'
+  name: 长江电力
+  full_name: 中国长江电力股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 基建 / 地产 / 央国企
+  industry: 水电运营
+  aliases:
+  - 长江电力
+  - 长电
+  is_featured: true
+  sort_order: 902
+  is_active: true
+- symbol: 000539.SZ
+  code: '000539'
+  name: 深圳能源
+  full_name: 深圳能源集团股份有限公司
+  market: SZSE
+  board: main_board
+  sector_group: 基建 / 地产 / 央国企
+  industry: 综合能源
+  aliases:
+  - 深圳能源
+  - 深能源
+  is_featured: false
+  sort_order: 9021
+  is_active: true
+- symbol: 000690.SZ
+  code: '000690'
+  name: 宝新能源
+  full_name: 广东宝丽华新能源股份有限公司
+  market: SZSE
+  board: main_board
+  sector_group: 基建 / 地产 / 央国企
+  industry: 火电运营
+  aliases:
+  - 宝新能源
+  - 宝新
+  is_featured: false
+  sort_order: 9022
+  is_active: true
+- symbol: 000791.SZ
+  code: '000791'
+  name: 甘肃电投
+  full_name: 甘肃电投能源发展股份有限公司
+  market: SZSE
+  board: main_board
+  sector_group: 基建 / 地产 / 央国企
+  industry: 电力运营
+  aliases:
+  - 甘肃电投
+  - 甘电投
+  is_featured: false
+  sort_order: 9023
+  is_active: true
+- symbol: 000875.SZ
+  code: '000875'
+  name: 吉电股份
+  full_name: 吉林电力股份有限公司
+  market: SZSE
+  board: main_board
+  sector_group: 基建 / 地产 / 央国企
+  industry: 电力运营
+  aliases:
+  - 吉电股份
+  - 吉电
+  is_featured: false
+  sort_order: 9024
+  is_active: true
+- symbol: 600089.SH
+  code: '600089'
+  name: 特变电工
+  full_name: 特变电工股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 基建 / 地产 / 央国企
+  industry: 电力设备
+  aliases:
+  - 特变电工
+  - 特变
+  is_featured: false
+  sort_order: 903
+  is_active: true
+- symbol: 601390.SH
+  code: '601390'
+  name: 中国中铁
+  full_name: 中国中铁股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 基建 / 地产 / 央国企
+  industry: 基建施工
+  aliases:
+  - 中国中铁
+  - 中铁
+  is_featured: false
+  sort_order: 904
+  is_active: true
+- symbol: 600941.SH
+  code: '600941'
+  name: 中国移动
+  full_name: 中国移动有限公司
+  market: SSE
+  board: main_board
+  sector_group: 基建 / 地产 / 央国企
+  industry: 通信运营
+  aliases:
+  - 中国移动
+  - 移动
+  is_featured: false
+  sort_order: 905
+  is_active: true
+- symbol: 001979.SZ
+  code: 001979
+  name: 招商蛇口
+  full_name: 招商局蛇口工业区控股股份有限公司
+  market: SZSE
+  board: main_board
+  sector_group: 基建 / 地产 / 央国企
+  industry: 房地产开发
+  aliases:
+  - 招商蛇口
+  - 蛇口
+  is_featured: false
+  sort_order: 906
+  is_active: true
+- symbol: 600031.SH
+  code: '600031'
+  name: 三一重工
+  full_name: 三一重工股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 基建 / 地产 / 央国企
+  industry: 工程机械
+  aliases:
+  - 三一
+  - 三一重工
+  is_featured: false
+  sort_order: 907
+  is_active: true
+- symbol: 300124.SZ
+  code: '300124'
+  name: 汇川技术
+  full_name: 深圳市汇川技术股份有限公司
+  market: SZSE
+  board: chinext
+  sector_group: 基建 / 地产 / 央国企
+  industry: 工业自动化
+  aliases:
+  - 汇川
+  - 汇川技术
+  is_featured: false
+  sort_order: 908
+  is_active: true
+- symbol: 601877.SH
+  code: '601877'
+  name: 正泰电器
+  full_name: 浙江正泰电器股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 基建 / 地产 / 央国企
+  industry: 低压电器
+  aliases:
+  - 正泰
+  - 正泰电器
+  is_featured: false
+  sort_order: 909
+  is_active: true
+- symbol: 600760.SH
+  code: '600760'
+  name: 中航沈飞
+  full_name: 中航沈飞股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 交通 / 军工 / 综合热点
+  industry: 军工航空
+  aliases:
+  - 中航沈飞
+  - 沈飞
+  is_featured: true
+  sort_order: 1001
+  is_active: true
+- symbol: 601989.SH
+  code: '601989'
+  name: 中国重工
+  full_name: 中国船舶重工股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 交通 / 军工 / 综合热点
+  industry: 军工船舶
+  aliases:
+  - 中国重工
+  - 重工
+  is_featured: true
+  sort_order: 1002
+  is_active: false
+- symbol: 600893.SH
+  code: '600893'
+  name: 航发动力
+  full_name: 中国航发动力股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 交通 / 军工 / 综合热点
+  industry: 航空发动机
+  aliases:
+  - 航发动力
+  - 航发
+  is_featured: false
+  sort_order: 1003
+  is_active: true
+- symbol: 601111.SH
+  code: '601111'
+  name: 中国国航
+  full_name: 中国国际航空股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 交通 / 军工 / 综合热点
+  industry: 航空运输
+  aliases:
+  - 国航
+  - 中国国航
+  is_featured: false
+  sort_order: 1004
+  is_active: true
+- symbol: 601021.SH
+  code: '601021'
+  name: 春秋航空
+  full_name: 春秋航空股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 交通 / 军工 / 综合热点
+  industry: 航空运输
+  aliases:
+  - 春秋航空
+  - 春秋
+  is_featured: false
+  sort_order: 1005
+  is_active: true
+- symbol: 000768.SZ
+  code: 000768
+  name: 中航西飞
+  full_name: 中航西安飞机工业集团股份有限公司
+  market: SZSE
+  board: main_board
+  sector_group: 交通 / 军工 / 综合热点
+  industry: 航空装备
+  aliases:
+  - 中航西飞
+  - 西飞
+  is_featured: false
+  sort_order: 1006
+  is_active: true
+- symbol: 601766.SH
+  code: '601766'
+  name: 中国中车
+  full_name: 中国中车股份有限公司
+  market: SSE
+  board: main_board
+  sector_group: 交通 / 军工 / 综合热点
+  industry: 轨道交通装备
+  aliases:
+  - 中国中车
+  - 中车
+  is_featured: false
+  sort_order: 1007
+  is_active: true

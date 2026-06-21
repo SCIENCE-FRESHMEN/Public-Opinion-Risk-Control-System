@@ -1,0 +1,17 @@
+{
+  "stock_count": 1000,
+  "selection_mode": "guba_hot",
+  "required_stocks": [],
+  "max_comments_per_stock": null,
+  "date_mode": "recent",
+  "recent_days": 30,
+  "start_date": "",
+  "end_date": "",
+  "include_sina_news": true,
+  "include_cninfo": true,
+  "include_sse": true,
+  "include_tencent_quote": true,
+  "include_eastmoney_quote": true,
+  "resolved_start_date": "2026-05-03",
+  "resolved_end_date": "2026-06-02"
+}

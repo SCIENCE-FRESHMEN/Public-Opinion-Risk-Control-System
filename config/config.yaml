@@ -1,0 +1,45 @@
+start_date: "2020-01-01"
+end_date: "2026-04-22"
+default_symbol: "600519.SH"
+default_tickers:
+  - "600519.SH"
+  - "300750.SZ"
+  - "601318.SH"
+  - "000858.SZ"
+  - "002594.SZ"
+  - "600036.SH"
+  - "600887.SH"
+  - "600276.SH"
+  - "688981.SH"
+  - "300760.SZ"
+  - "000063.SZ"
+  - "300274.SZ"
+  - "000568.SZ"
+  - "300308.SZ"
+  - "002230.SZ"
+  - "601012.SH"
+  - "002371.SZ"
+  - "002714.SZ"
+  - "603259.SH"
+  - "688111.SH"
+  - "002475.SZ"
+  - "601688.SH"
+  - "600030.SH"
+  - "603501.SH"
+  - "300498.SZ"
+  - "600436.SH"
+  - "688223.SH"
+  - "300033.SZ"
+  - "002241.SZ"
+  - "601166.SH"
+  - "601398.SH"
+market_open: "09:30"
+market_close: "15:00"
+alert_thresholds:
+  negative_ratio: 0.6
+  news_count_multiplier: 2.0
+  sentiment_drop: 0.25
+  negative_abs_sentiment: -0.45
+  negative_abs_ratio: 0.75
+  divergence_sentiment_abs: 0.20
+  divergence_intraday_return: 0.002

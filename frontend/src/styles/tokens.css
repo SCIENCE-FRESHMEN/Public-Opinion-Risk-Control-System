@@ -1,0 +1,38 @@
+:root {
+  --color-background: #10131a;
+  --color-surface: #10131a;
+  --color-surface-lowest: #0b0e14;
+  --color-surface-low: #191c22;
+  --color-surface-container: #1d2026;
+  --color-surface-high: #272a31;
+  --color-surface-highest: #32353c;
+  --color-surface-bright: #363940;
+  --color-surface-glass: rgba(54, 57, 64, 0.76);
+  --color-on-surface: #e1e2eb;
+  --color-on-surface-variant: #c1c6d6;
+  --color-outline: #8b909f;
+  --color-outline-variant: #414754;
+  --color-primary: #adc7ff;
+  --color-primary-container: #1a73e8;
+  --color-primary-soft: rgba(26, 115, 232, 0.14);
+  --color-secondary: #ffb77d;
+  --color-secondary-container: #fd8b00;
+  --color-tertiary: #2ddbde;
+  --color-error: #ffb4ab;
+  --color-error-container: #93000a;
+  --color-success: #2ddbde;
+  --color-negative: #8b0000;
+  --color-risk-high: #b22222;
+  --color-risk-medium: #ff8c00;
+  --color-risk-low: #ffd700;
+  --color-nav-accent: #4f46e5;
+  --nav-bg: #12182a;
+  --topbar-bg: rgba(11, 15, 28, 0.86);
+  --footer-bg: #121b33;
+  --ambient-shadow: 0 0 32px rgba(225, 226, 235, 0.06);
+  --ambient-shadow-strong: 0 20px 72px rgba(4, 10, 20, 0.42);
+  --panel-grid: rgba(173, 199, 255, 0.08);
+  --panel-glow: rgba(45, 219, 222, 0.18);
+  --panel-alert: rgba(255, 180, 171, 0.18);
+  --ghost-border: rgba(65, 71, 84, 0.15);
+}
